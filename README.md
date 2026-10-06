@@ -1,21 +1,27 @@
-<h1 align="center">Oi, eu sou o Fernando 👋</h1>
+# Hi, I'm Fernando Scarabeli 👋
 
-###
+Backend Developer focused on Java and Spring Boot.
 
-<p align="center">Olá! Sou Fernando Scarabeli, desenvolvedor backend focado na construção de APIs robustas e escaláveis utilizando Java e Spring Boot.<br><br>Atualmente curso Sistemas de Informação na UFLA e tenho interesse especial em desenvolvimento backend, arquitetura de software e boas práticas de engenharia. Gosto de projetar sistemas bem estruturados, aplicando SOLID, Clean Code e arquitetura em camadas, buscando sempre código limpo, manutenível e escalável.</p>
+I'm currently studying Information Systems at UFLA and working with backend development, REST APIs and relational databases.
 
-###
+My main stack includes:
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
+- Java 17+
+- Spring Boot
+- Spring Data JPA / Hibernate
+- PostgreSQL
+- Spring Security / JWT
+- JUnit / Mockito
+- Docker
+- Git
+- Flyway
+- OpenAPI
 
-###
+Beyond development, I have taken on technical leadership responsibilities such as code review, technical decision-making and supporting other developers.
+
+## Currently
+
+- 🎓 Information Systems @ UFLA
+- 💻 Backend development with Java and Spring
+- 📚 Improving software architecture, testing and distributed systems
+- 🌎 Open to Java/Spring Backend internship and junior opportunities
