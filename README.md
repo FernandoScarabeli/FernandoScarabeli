@@ -1,27 +1,46 @@
-# Hi, I'm Fernando Scarabeli 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/boot-dark.svg">
+  <img alt="Spring Boot style boot log: Fernando Scarabeli, backend developer with Java 17 and Spring Boot" src="assets/boot.svg" width="100%">
+</picture>
 
-Backend Developer focused on Java and Spring Boot.
+<br>
+<br>
 
-I'm currently studying Information Systems at UFLA and working with backend development, REST APIs and relational databases.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/api-dark.svg">
+  <img alt="Fernando Scarabeli API 1.0.0. Backend developer, Java and Spring Boot, Information Systems at UFLA, Lavras, MG." src="assets/api.svg" width="100%">
+</picture>
+<a href="https://www.linkedin.com/in/fernandoscarabeli/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/api-about-dark.svg">
+    <img alt="GET /about: who I am, on LinkedIn" src="assets/api-about.svg" width="100%">
+  </picture>
+</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/api-stack-dark.svg">
+  <img alt="GET /stack: Java 17+, SQL, TypeScript, Spring Boot, Spring Data JPA, Spring Security, Spring Cloud Gateway, Actuator, Validation, REST, Microservices, API Gateway, BFF, Event-driven, RabbitMQ, PostgreSQL, Hibernate, Flyway, MinIO, JWT, RBAC, JUnit 5, Mockito, Docker, Docker Compose, Kubernetes, Linux, CI/CD, OpenAPI, Swagger, Maven, Git" src="assets/api-stack.svg" width="100%">
+</picture>
+<a href="https://github.com/FernandoScarabeli?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/api-projects-dark.svg">
+    <img alt="GET /projects: defesa-pronta, citogenetica, GradeUFLA" src="assets/api-projects.svg" width="100%">
+  </picture>
+</a>
+<a href="https://www.linkedin.com/in/fernandoscarabeli/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/api-contact-dark.svg">
+    <img alt="POST /contact: let's talk, on LinkedIn, 201 Created" src="assets/api-contact.svg" width="100%">
+  </picture>
+</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/api-bugs-dark.svg">
+  <img alt="DELETE /bugs: tests, code review and coffee, 204 No Content" src="assets/api-bugs.svg" width="100%">
+</picture>
 
-My main stack includes:
+<br>
+<br>
 
-- Java 17+
-- Spring Boot
-- Spring Data JPA / Hibernate
-- PostgreSQL
-- Spring Security / JWT
-- JUnit / Mockito
-- Docker
-- Git
-- Flyway
-- OpenAPI
-
-Beyond development, I have taken on technical leadership responsibilities such as code review, technical decision-making and supporting other developers.
-
-## Currently
-
-- 🎓 Information Systems @ UFLA
-- 💻 Backend development with Java and Spring
-- 📚 Improving software architecture, testing and distributed systems
-- 🌎 Open to Java/Spring Backend internship and junior opportunities
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoScarabeli/FernandoScarabeli/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/FernandoScarabeli/FernandoScarabeli/output/pacman-contribution-graph.svg" width="100%">
+</picture>
